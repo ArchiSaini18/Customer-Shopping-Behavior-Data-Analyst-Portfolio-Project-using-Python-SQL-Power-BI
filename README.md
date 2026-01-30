@@ -1,4 +1,4 @@
-📊 **Customer Shopping Behavior Analytics Dashboard**
+**👨🏻‍💻Customer Behavior Data Analyst Portfolio Project**
 
 (End-to-End Data Analytics Project)
 
