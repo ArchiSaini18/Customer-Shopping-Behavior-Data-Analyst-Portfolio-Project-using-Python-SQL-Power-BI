@@ -133,7 +133,8 @@ The primary objectives of this project are to:
 • Repeat Purchase Rate
 
 📈 **Core Visualizations & Insights**
-Customer & Sales Insights
+
+**Customer & Sales Insights**
 
 • Total Revenue & Customer Count (KPI Cards)
 
@@ -141,13 +142,15 @@ Customer & Sales Insights
 
 • Top Products by Purchase Volume (Table)
 
-Customer Behavior & Segmentation
+**Customer Behavior & Segmentation**
 
 • Customer Segments (New / Returning / Loyal)
+
 • Purchase Frequency Distribution
+
 • Average Rating by Product
 
-Trends & Patterns
+**Trends & Patterns**
 
 • Revenue Trends
 
@@ -169,6 +172,6 @@ Trends & Patterns
 
 
 
-🎯 Overall Goal
+🎯 **Overall Goal**
 
 To deliver a real-world, end-to-end Customer Shopping Behavior Analytics solution that transforms raw transactional data into actionable insights through Python, SQL, and Power BI — mirroring the workflow of modern data analytics teams.
