@@ -1,6 +1,6 @@
 # 👨🏻‍💻**Customer Behavior Data Analyst Portfolio Project**
 
-(End-to-End Data Analytics Project)
+
 
 Designed and developed a complete Customer Shopping Behavior Analytics solution that analyzes purchasing patterns, customer segments, product performance, and engagement trends
 using Python, SQL, and Power BI to support data-driven business decisions.
